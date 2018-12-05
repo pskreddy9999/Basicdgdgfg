@@ -17,6 +17,9 @@ public class Configarations {
 		
 		return T.get();		
 	}
+	public static void AJ() {
+		
+	}
 	public static void set(Configarations configarations) {
 		T.set(configarations);
 	}
